@@ -2,7 +2,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from './pages/Home';
 import JobDetail from './pages/JobDetail';
 import BookMark from './pages/BookMark';
-import Layout from "./components/layout";
+import Layout from "./components/Layout";
 import NotFound from "./pages/NotFound";
 function App() {
 const router = createBrowserRouter([
